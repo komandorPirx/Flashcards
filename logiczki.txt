@@ -1,0 +1,15 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+The card:
+Polska
+The definition of the card:
+The pair ("Polska":"Warszawa") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+The card:
+Francja
+The definition of the card:
+The pair ("Francja":"Paryz") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+File name:
+logiczki.txt

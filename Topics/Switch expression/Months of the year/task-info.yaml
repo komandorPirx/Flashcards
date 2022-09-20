@@ -1,0 +1,42 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18466#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:17: error: incompatible types: Month cannot be converted to int
+                case Month.January:
+                          ^
+    Main.java:20: error: incompatible types: Month cannot be converted to int
+                case Month.February:
+                          ^
+    Main.java:23: error: incompatible types: Month cannot be converted to int
+                case Month.March:
+                          ^
+    Main.java:26: error: incompatible types: Month cannot be converted to int
+                case Month.April:
+                          ^
+    Main.java:29: error: incompatible types: Month cannot be converted to int
+                case Month.May:
+                          ^
+    Main.java:32: error: incompatible types: Month cannot be converted to int
+                case Month.June:
+                          ^
+    6 errors
+  time: Thu, 08 Sep 2022 10:19:54 UTC
+record: -1

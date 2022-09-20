@@ -1,0 +1,37 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Topics/ArrayList/Concat positive numbers/out/
+/Topics/ArrayList/Concat positive numbers/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/Generics and Object/Initialize an object of a generic class/out/
+/Topics/Generics and Object/Initialize an object of a generic class/out/production/classes/
+/Topics/Switch expression/Months of the year/out/
+/Topics/Switch expression/Months of the year/out/production/classes/
+/Topics/The List interface/Backward indexes/out/
+/Topics/The List interface/Backward indexes/out/production/classes/
+/Topics/The List interface/Filtering the list/out/
+/Topics/The List interface/Filtering the list/out/production/classes/
+/Topics/The List interface/Greek letters/out/
+/Topics/The List interface/Greek letters/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Topics/The Map interface/Tricky sub-maps/out/
+/Topics/The Map interface/Tricky sub-maps/out/production/classes/
+/Topics/The Set interface/Removing elements/out/
+/Topics/The Set interface/Removing elements/out/production/classes/
+/Topics/The Set interface/Spell checker/out/
+/Topics/The Set interface/Spell checker/out/production/classes/
+/Topics/The Set interface/Strict superset/out/
+/Topics/The Set interface/Strict superset/out/production/classes/
+/Topics/The Set interface/Symmetric difference/out/
+/Topics/The Set interface/Symmetric difference/out/production/classes/
